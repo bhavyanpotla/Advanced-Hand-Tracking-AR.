@@ -9,11 +9,11 @@ An immersive, web-based Augmented Reality (AR) application that leverages comput
 
 ---
 
-## 📸 Preview Screenshot
+## 📸 Preview Image Through Drive
 
 *When running successfully, your browser interface will look like this:*
 
-![Application Preview](https://drive.google.com/file/d/1lhipq411kTARiTQEGPNQ7IiHMfrV70CL/view?usp=sharing)
+[https://drive.google.com/file/d/1lhipq411kTARiTQEGPNQ7IiHMfrV70CL/view?usp=sharing](url)
 
 ---
 
