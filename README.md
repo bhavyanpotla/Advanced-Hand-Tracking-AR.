@@ -13,7 +13,8 @@ An immersive, web-based Augmented Reality (AR) application that leverages comput
 
 *When running successfully, your browser interface will look like this:*
 
-[https://drive.google.com/file/d/1lhipq411kTARiTQEGPNQ7IiHMfrV70CL/view?usp=sharing](url)
+<img width="1135" height="666" alt="Screenshot 2026-05-30 164311" src="https://github.com/user-attachments/assets/70444c1a-9da5-44f3-bedc-a9ca41b9c436" />
+
 
 ---
 
