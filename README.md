@@ -13,7 +13,8 @@ An immersive, web-based Augmented Reality (AR) application that leverages comput
 
 *When running successfully, your browser interface will look like this:*
 
-![Application Preview](https://raw.githubusercontent.com/bhavyan_potla/Advanced-Hand-Tracking-AR/main/image_4a245f.jpg)
+![Application Preview](<img width="1135" height="666" alt="image" src="https://github.com/user-attachments/assets/4be63238-b9a7-45ae-9fe3-1011da6e8824" />
+)
 
 ---
 
